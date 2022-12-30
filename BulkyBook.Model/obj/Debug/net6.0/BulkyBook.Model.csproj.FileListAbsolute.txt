@@ -1,0 +1,28 @@
+C:\sourabh\.net\BullyBook\BulkyBook.Model\bin\Debug\net6.0\BulkyBook.Model.deps.json
+C:\sourabh\.net\BullyBook\BulkyBook.Model\bin\Debug\net6.0\BulkyBook.Model.runtimeconfig.json
+C:\sourabh\.net\BullyBook\BulkyBook.Model\bin\Debug\net6.0\BulkyBook.Model.dll
+C:\sourabh\.net\BullyBook\BulkyBook.Model\bin\Debug\net6.0\BulkyBook.Model.pdb
+C:\sourabh\.net\BullyBook\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.csproj.AssemblyReference.cache
+C:\sourabh\.net\BullyBook\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\sourabh\.net\BullyBook\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.AssemblyInfoInputs.cache
+C:\sourabh\.net\BullyBook\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.AssemblyInfo.cs
+C:\sourabh\.net\BullyBook\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.csproj.CoreCompileInputs.cache
+C:\sourabh\.net\BullyBook\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.dll
+C:\sourabh\.net\BullyBook\BulkyBook.Model\obj\Debug\net6.0\refint\BulkyBook.Model.dll
+C:\sourabh\.net\BullyBook\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.pdb
+C:\sourabh\.net\BullyBook\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.genruntimeconfig.cache
+C:\sourabh\.net\BullyBook\BulkyBook.Model\obj\Debug\net6.0\ref\BulkyBook.Model.dll
+C:\sourabh\.net\BullyBook - Identity Managemet\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.csproj.AssemblyReference.cache
+C:\sourabh\.net\BullyBook - Identity Managemet\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\sourabh\.net\BullyBook - Identity Managemet\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.AssemblyInfoInputs.cache
+C:\sourabh\.net\BullyBook - Identity Managemet\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.AssemblyInfo.cs
+C:\sourabh\.net\BullyBook - Identity Managemet\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.csproj.CoreCompileInputs.cache
+C:\sourabh\.net\BullyBook - Identity Managemet\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.dll
+C:\sourabh\.net\BullyBook - Identity Managemet\BulkyBook.Model\obj\Debug\net6.0\refint\BulkyBook.Model.dll
+C:\sourabh\.net\BullyBook - Identity Managemet\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.pdb
+C:\sourabh\.net\BullyBook - Identity Managemet\BulkyBook.Model\bin\Debug\net6.0\BulkyBook.Model.deps.json
+C:\sourabh\.net\BullyBook - Identity Managemet\BulkyBook.Model\bin\Debug\net6.0\BulkyBook.Model.runtimeconfig.json
+C:\sourabh\.net\BullyBook - Identity Managemet\BulkyBook.Model\bin\Debug\net6.0\BulkyBook.Model.dll
+C:\sourabh\.net\BullyBook - Identity Managemet\BulkyBook.Model\bin\Debug\net6.0\BulkyBook.Model.pdb
+C:\sourabh\.net\BullyBook - Identity Managemet\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.genruntimeconfig.cache
+C:\sourabh\.net\BullyBook - Identity Managemet\BulkyBook.Model\obj\Debug\net6.0\ref\BulkyBook.Model.dll

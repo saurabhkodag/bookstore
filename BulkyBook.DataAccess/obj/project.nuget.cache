@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hhp3QDr7IosGJg/Fz2cr60AAahJS3n9bcb4258mVLGsJsXWMiP4ehBipfYzYMvCROvLwjx/WEFArryVV8QS4wA==",
+  "success": true,
+  "projectFilePath": "C:\\sourabh\\.net\\BullyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skodag\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.6\\microsoft.aspnetcore.authorization.6.0.6.nupkg.sha512",
+    "C:\\Users\\skodag\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.6\\microsoft.aspnetcore.components.6.0.6.nupkg.sha512",
+    "C:\\Users\\skodag\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.6\\microsoft.aspnetcore.components.analyzers.6.0.6.nupkg.sha512",
+    "C:\\Users\\skodag\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.6\\microsoft.aspnetcore.components.forms.6.0.6.nupkg.sha512",
+    "C:\\Users\\skodag\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.6\\microsoft.aspnetcore.components.web.6.0.6.nupkg.sha512",
+    "C:\\Users\\skodag\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.6\\microsoft.aspnetcore.metadata.6.0.6.nupkg.sha512",
+    "C:\\Users\\skodag\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\skodag\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\skodag\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\skodag\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\skodag\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\skodag\\.nuget\\packages\\microsoft.jsinterop\\6.0.6\\microsoft.jsinterop.6.0.6.nupkg.sha512",
+    "C:\\Users\\skodag\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
+    "C:\\Users\\skodag\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
